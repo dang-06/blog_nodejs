@@ -1,0 +1,29 @@
+{
+  "name": "fisrtpj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dang-06/blog_nodejs.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "haidang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dang-06/blog_nodejs/issues"
+  },
+  "homepage": "https://github.com/dang-06/blog_nodejs#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
